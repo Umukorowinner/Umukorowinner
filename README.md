@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Umukorowinner
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on divers if developers
+- 💞️ I’m looking to collaborate on divers of projects
 - 📫 How to reach me @umukorowinner990@gmail.com
 
 <!---
